@@ -1,0 +1,11 @@
+{
+  "name": "SpaceX Falcon 9 on Of Course I Still Love You",
+  
+  "layers": [
+    {
+      "type": "equirectangular",
+      "url": "falcon-9-barge.jpg"
+    }
+  ]
+  
+}

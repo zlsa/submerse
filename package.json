@@ -1,0 +1,27 @@
+{
+  "name": "submerse",
+  "author": "Jon Ross <jonross.zlsa@gmail.com> (https://zlsa.github.io/)",
+  "description": "Immersive Panorama Viewer",
+  "keywords": [
+    "panorama",
+    "ambient",
+    "audio"
+  ],
+  "homepage": "https://zlsa.github.io/submerse/",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": "github:zlsa/submerse",
+  "dependencies": {
+    "babel-loader": "^6.2.4",
+    "equirect-cubemap-faces-js": "^1.0.0",
+    "eslint": "^2.10.2",
+    "eslint-loader": "^1.3.0",
+    "twgl.js": "^1.5.2",
+    "uri-js": "^2.1.1",
+    "webpack": "^1.13.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "webpack-glsl-loader": "^1.0.1"
+  }
+}
